@@ -1,0 +1,24 @@
+{
+  "name": "gestion-no-conformidades",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calidad-gif/gestion-no-conformidades.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/calidad-gif/gestion-no-conformidades/issues"
+  },
+  "homepage": "https://github.com/calidad-gif/gestion-no-conformidades#readme",
+  "dependencies": {
+    "jsdom": "^29.1.1"
+  }
+}
